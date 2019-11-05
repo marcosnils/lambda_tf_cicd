@@ -1,3 +1,3 @@
 exports.test =  async function(event, context) {
-  return 'Hello London HUG!!';
+  return 'Hello London!!';
 }
